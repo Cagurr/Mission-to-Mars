@@ -12,7 +12,7 @@ We are helping Robin, a junior data scientist, write a script that gathers data 
 
 ## Mars Scrap Results
 
-NOTE:  In addition to making the website mobile-responsive, I made the button green and made the featured image rounded.  I 
+NOTE:  In addition to making the website mobile-responsive, I made the button green and the featured image rounded. 
 
 ### Route Site
 
